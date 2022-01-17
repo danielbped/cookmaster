@@ -1,4 +1,4 @@
-# Projeto [Cookmaster](https://github.com/tryber/sd-012-cookmaster/pull/34)
+# Projeto [Cookmaster](https://github.com/betrybe/sd-0x-cookmaster-v2)
   - Módulo 3: Desenvolvimento Back-end
   - Bloco 27: Autenticação e upload de arquivos
 ### Requisitos
